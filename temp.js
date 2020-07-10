@@ -1,5 +1,6 @@
 
-var a=10,fn,var=function(x){
+var a=10,fn,
+var fn=function(x){
     var b=5;
     fn(x+b);
 };
